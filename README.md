@@ -31,7 +31,7 @@
   ||       ||           ⚡  IDE          → VSCode · NeoVim
   |"-------'|           💬  LANGS        → C/C++ · Python · Go · JavaScript
 .-^---------^-.         🐳  DEVOPS       → Docker · Git · CI/CD
-| ---~        |         🗄️  DB           → PostgreSQL · Redis
+| ---~        |
 "-------------'
 
 ```
