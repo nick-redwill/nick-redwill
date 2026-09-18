@@ -45,7 +45,7 @@
 </td></tr>
 <tr><td>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1000&pause=4100&multiline=true&repeat=false&color=00E5FF&vCenter=true&width=700&height=55&lines=SELECT+dislikes+FROM+me;%3E+Vague+ideas+%C2%B7+Spaghetti+code+%C2%B7+3AM+bugs" alt="dislikes" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1000&pause=4100&multiline=true&repeat=false&color=00E5FF&vCenter=true&width=700&height=55&lines=SELECT+dislikes+FROM+me;%3E+Vague+ideas+%C2%B7+Spaghetti+code+%C2%B7+3AM+bugs+%C2%B7+JavaScript" alt="dislikes" />
 
 </td></tr>
 </table>
